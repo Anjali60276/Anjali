@@ -1,5 +1,5 @@
 # Anjali
-Hi, I’m Anjali 🌸   A BCA graduate and frontend developer who loves building clean, aesthetic, Pinterest-inspired web applications. Currently learning React and UI/UX, and passionate about creating simple ideas into beautiful user experiences ✨
+Hi, I’m Anjali 🌸   A BCA graduate and Web developer who loves building clean, aesthetic, Pinterest-inspired web applications. Currently learning React and UI/UX, and passionate about creating simple ideas into beautiful user experiences ✨
 
 ## 🌐 Socials:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/archanaacharya60276) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjaliacharya117@gmail.com) 
